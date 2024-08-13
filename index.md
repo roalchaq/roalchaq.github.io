@@ -3,8 +3,6 @@ layout: page
 title: About Me
 ---
 
-# Profile
-
 I work as a Researcher in Trustworthy Human-Robot Interaction since July 2022, funded by the UKRI Trustworthy Autonomous Systems Programme, Node on Trust. 
 My work involves designing augmented reality (AR) user interfaces (UIs) for controlling assistive robots, including smart wheelchairs, mobile and legged manipulators, bi-manual robots, etc. 
 I design these interfaces to make controlling such robots easier for users lacking experience or having disabilities.
